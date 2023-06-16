@@ -1,4 +1,4 @@
-# DaLazzyyHackers
+
 
 In the ever-evolving metaverse, the need for digitising text documents and extracting their essential data is becoming more crucial. However, the quality of these documents can often be poor, resulting in low-quality Optical Character Recognition (OCR) data and poor document intelligence extraction. The solution to this is to automatically determine the quality of these documents before they are processed through OCR and other processing methods.
 
